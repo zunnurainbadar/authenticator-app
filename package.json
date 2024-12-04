@@ -1,0 +1,16 @@
+{
+  "name": "authenticator-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "qr_generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "qrcode": "^1.5.4",
+    "speakeasy": "^2.0.0"
+  }
+}
